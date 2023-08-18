@@ -1,5 +1,5 @@
 //your JS code here. If required.
-#man-divsn{
+#main-divsn{
     background-color: rgb(249, 248, 248);
     width:500px;
     padding:60px;
